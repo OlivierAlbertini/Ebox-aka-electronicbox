@@ -1,5 +1,5 @@
 # Ebox-aka-electronicbox
-Check your data consommation and send you an email near the limit
+Check your data consommation and send you an email when you are near the limit
 
 - You need to put your personnal ebox key
 - Add your smtp information in order to setup auto email
