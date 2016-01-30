@@ -1,0 +1,8 @@
+C:\Users\olivier\Documents\Visual Studio 2015\Projects\electronicbox\electronicbox\bin\Release\electronicbox.exe.config
+C:\Users\olivier\Documents\Visual Studio 2015\Projects\electronicbox\electronicbox\bin\Release\electronicbox.exe
+C:\Users\olivier\Documents\Visual Studio 2015\Projects\electronicbox\electronicbox\bin\Release\electronicbox.pdb
+C:\Users\olivier\Documents\Visual Studio 2015\Projects\electronicbox\electronicbox\bin\Release\HtmlAgilityPack.dll
+C:\Users\olivier\Documents\Visual Studio 2015\Projects\electronicbox\electronicbox\bin\Release\HtmlAgilityPack.pdb
+C:\Users\olivier\Documents\Visual Studio 2015\Projects\electronicbox\electronicbox\bin\Release\HtmlAgilityPack.xml
+C:\Users\olivier\Documents\Visual Studio 2015\Projects\electronicbox\electronicbox\obj\Release\electronicbox.exe
+C:\Users\olivier\Documents\Visual Studio 2015\Projects\electronicbox\electronicbox\obj\Release\electronicbox.pdb
